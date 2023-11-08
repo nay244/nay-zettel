@@ -30,4 +30,4 @@ In no particular order, my hobbies are:
 
 ## Email
 
-Just send me a hello at naaay.naing-sys[AT]gmail.com
+Just send me a hello at naaay.naing-sys@gmail.com
