@@ -193,8 +193,7 @@ words**.
 **Function words**, often also called *grammatical* words, are those words and
 parts of speech that provide a grammatical function to a sentence[6]. They are
 things like articles or pronouns in English. Particles or auxiliary
-verbs/conjugations in Japanese. They are things you will find listed for example
-on bunpro (Note: [[0c786881]]) or similar grammar learning tools.
+verbs/conjugations in Japanese.
 
 **Content words**, on the other hand, are where the essence of a text comes
 through. It’s where you find the actual meaning.
