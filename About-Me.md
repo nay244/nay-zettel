@@ -7,6 +7,9 @@ tags:
 
 ## Who am I?
 
+Data Analyst, with an interest in  Machine Learning and Artificial Intelligence. 
+My academic background in Masters of Data Analytics and Bachelors of Information Technology (Cyber Security). 
+Southeastern US based.
 
 
 ## Hobbies
@@ -15,22 +18,15 @@ In no particular order, my hobbies are:
 
  * Language learning (currently [[Japanese]])
  * Videogames (FPS, MMOs, RPGs, etc)
- * Game development
- * Music
+ * Data Analysis
+ * Music (JPop, Pop, Rap, KPop, LoFi)
  * Shitposting online
 
 ## Social media
 
- * Twitter: 
- * Github: 
- * Discord: 
- * Steam: 
-
-## Other links
-
- * Itch.io: [Morg](https://morg.itch.io/)
- * Soundcloud: [Acoutronic](https://soundcloud.com/acoutronic)
- * Bandcamp: [Acoutronic](http://acoutronic.bandcamp.com/)
+ * Github: [Nay244] (https://github.com/nay244/)
+ * Twitter: [@NaaayNG] (https://twitter.com/NaaayNG)
+ * Discord: 'naaay'
 
 ## Email
 
