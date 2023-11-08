@@ -40,11 +40,11 @@ For a quick primer, read [[[Japanese-Primer]]].
  * General language approach philosophy:
     * [[[Optimal-Reading-Immersion---Narrow-Reading]]]
     * [[[The-science-of-letting-go]]]
+  
+### NOTE
+
+This entirety of this Japanese section and all the contents within is credited to [Morg Systems](https://morg.systems/Japanese). I plan on using this section to serve as a resource hub for myself on my Japanese language learning journey.
 
 ## List of various Japanese-related notes
 
 [[z:zettels?tag=japanese/**&japanese]]
-
-### NOTE
-
-This entirety of this Japanese section and all the contents within is credited to [Morg Systems](https://morg.systems/Japanese). I plan on using this section to serve as a resource hub for myself on my Japanese language learning journey.
