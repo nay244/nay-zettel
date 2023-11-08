@@ -12,13 +12,6 @@ tags:
 If you're confused by the huge amount of resources and options available to you
 and just want to learn Japanese, here's what I recommend.
 
-As always, this is just my **personal opinion**. There's no best way: what works
-for me might not work for you. Don't stress it, if something is not working out
-then use something else.
-
-If you disagree with what I've written here, that's okay too. I'm not the
-ultimate authority on Japanese learning.
-
 ## READ THIS FIRST:
 
 **FIRST**:
@@ -74,6 +67,11 @@ to read on the web. See also: [[[Practical-Tips-to-Facilitate-Early-Reading]]]
 
 ---
 
-![Thumbs Up](./static/thumbs_up.png) Remember! Good luck and have fun.
+![Thumbs Up](./static/thumbs_up.png) Remember! Good luck and have fun!
 
 ---
+### NOTE
+
+This is just my **personal opinion**. There's no best way: what works
+for me might not work for you. Don't stress it, if something is not working out
+then use something else.
