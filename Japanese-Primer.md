@@ -74,6 +74,6 @@ to read on the web. See also: [[[Practical-Tips-to-Facilitate-Early-Reading]]]
 
 ---
 
-![Thumbs Up](./static/thumbs_up.png) You're done! Good luck and have fun.
+![Thumbs Up](./static/thumbs_up.png) Remember! Good luck and have fun.
 
 ---
