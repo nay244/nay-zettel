@@ -12,14 +12,6 @@ Hanging around Japanese learning communities, I see the following questions all
 the time. In most cases, the answer is always the same and it involves a quick
 link to a page with (what I consider) the best explanation currently available.
 
-Since this process of linking these pages is often automatic (most of these are
-bot commands in the `#japanese_questions` channel in the [[EJLX]] server), I
-figured I'd just collect all of them here too for people to browse.
-
-**NOTE**: If you think you have a better resource to link, please let me know
-via any kind of social media ([[3d24ec19]]) and I'll give it a look/update this
-page.
-
 If what you're looking for is not here, consider also reading the
 [[[Unlocking-Japanese-Tricks]]] page.
 
@@ -44,7 +36,7 @@ If what you're looking for is not here, consider also reading the
 
 ### What is the difference between は and が?
 
- * Watch [this video](https://youtu.be/FknmUij6ZIk) (seriously, do it)
+ * Watch [this video](https://youtu.be/FknmUij6ZIk) (one of my favorite channels to watch for grammer)
 
 ### Why is こんにちは pronounced konnichiwa?
 
