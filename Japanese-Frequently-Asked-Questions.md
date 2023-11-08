@@ -49,9 +49,6 @@ If what you're looking for is not here, consider also reading the
  * Read [this tofugu article](https://www.tofugu.com/japanese/onyomi-kunyomi/)
  * Also see [[Onyomi-and-Kunyomi]]
 
-### What is the difference between formal and polite?
-
-<img src="https://media.discordapp.net/attachments/189601264424714241/417997696335347712/Screenshot_20180227-1952352.png" alt="Formal vs Polite" width="400" />
 
 ## Grammar Questions
 
