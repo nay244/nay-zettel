@@ -2,7 +2,7 @@
 tags: [home]
 ---
 
-# Naaay
+# Nay
 
 Hi, I am [[[About-Me]]].
 
