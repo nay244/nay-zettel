@@ -30,7 +30,6 @@ For a quick primer, read [[[Japanese-Primer]]].
  * To improve your conversational Japanese:
     * [[[Learning-to-Output]]]
  * [[[Collection-of-Japanese-phrases-your-textbook-won't-teach-you]]]
- * [[[List-of-Bad-Ideas-for-Japanese-Study]]]
  * Series of articles if you are interested in the
    **Japanese writing system**:
     * [[[Kanji]]]
