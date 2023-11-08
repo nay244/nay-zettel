@@ -36,7 +36,7 @@ If what you're looking for is not here, consider also reading the
 
 ### What is the difference between は and が?
 
- * Watch [this video](https://youtu.be/FknmUij6ZIk) (one of my favorite channels to watch for grammer)
+ * Watch [this video](https://youtu.be/FknmUij6ZIk) (one of my favorite channels to watch for grammar)
 
 ### Why is こんにちは pronounced konnichiwa?
 
