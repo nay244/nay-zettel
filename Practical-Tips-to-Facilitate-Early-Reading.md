@@ -9,8 +9,7 @@ tags:
 
 # Practical Tips to Facilitate Early Reading
 
-As discussed in [[Optimal-Reading-Immersion---Narrow-Reading]], being able to
-read for your own personal enjoyment is one of the best ways to acquire a
+Being able to read for your own personal enjoyment is one of the best ways to acquire a
 language.
 
 However, especially when it comes to Japanese, there are quite a few obstacles
@@ -40,7 +39,7 @@ extension that every single Japanese learner should install. Let me repeat:
 By just moving your mouse over a word you don’t know, it will tell you the
 reading, pronunciation, meaning, translation, and a bunch of other details about
 it. By clicking a button you will also be able to export not only the word but
-**the entire sentence** into your [[6cfc2b98]] deck if you have set it up using
+**the entire sentence** into your [[Anki]] deck if you have set it up using
 ankiconnect.
 
 There is a great explanation and set up guide on [this page](https://learnjapanese.moe/yomichan/)
@@ -101,5 +100,4 @@ it great for beginners too!) has [[Furigana]] for every single kanji. This makes
 it easier to read and look up words, and you will not need any fancy tools to do
 so. If you can buy physical manga as well, it can be quite nice to read on the
 couch away from all technology and distractions. Just you, your manga, and your
-dictionary. If you are interested, I have a few manga recommendations in
-[[[e50a5ae3]]], and most of them will have furigana too.
+dictionary.
