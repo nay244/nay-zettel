@@ -70,7 +70,7 @@ keep track of.
 
 I like using the highlight system to keep count of new words I learn as I read,
 and then use a tool like [this one](https://github.com/kanjieater/Smart-Japanese-Kindle-Highlights)
-to bulk import all my highlights automatically into [[6cfc2b98]] cards for
+to bulk import all my highlights automatically into [[Anki]] cards for
 review later.
 
 ## Textractor and Game2Text
