@@ -318,16 +318,6 @@ morning (like a blog or personal diary, scrap notes, literally anything you
 feel like writing about) and then in the evening before going to sleep I go
 over them and see if anything stands out.
 
-I like to write them on a google doc page because I can easily highlight the
-parts that feel off. Here is an example from some notes I wrote almost a year
-ago (terrible Japanese and all):
-
-![Self-corrected Japanese notes](./static/self-corrected-jp.jpg)
-
-Notice that I don’t try to correct (what I think are) my mistakes. I just mark
-them and move on. There will be a lot of mistakes you will miss. A lot of stuff
-you won’t realize is wrong. But there will still be plenty that you will notice.
-That’s where the gradual improvement will happen.
 
 ### <a name="attentive-listening">Attentive Listening</a>
 
