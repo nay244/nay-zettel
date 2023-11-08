@@ -23,7 +23,7 @@ In reality, it's more like a series of personal posts and diary of sorts that do
 
 ## Curated Articles
 
-  * [[[Data-Analysis]]]
+  * [[[Data Analysis]]]
   * [[[Japanese]]]
   * [[[WGU]]]
     
