@@ -28,4 +28,4 @@ On the other hand, I do write a lot of impulse drafts and walls of text on other
 DISCLAIMER - The [[[Notes]]] can be rough and sometimes controversial. Until I get the time to clean them up and turn them into proper articles, expect literally anything from this section of my site.
 
 ## Timeline
-For a chronological list of zettels, see [[[78550a77]]]
+For a chronological list of zettels, see [[[Timeline]]]
