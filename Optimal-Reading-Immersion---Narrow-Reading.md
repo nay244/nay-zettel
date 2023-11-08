@@ -168,7 +168,7 @@ reinforce certain collocations and words used by a certain author as we delve
 deeper into their work.
 
 It is impossible to gain mastery of word usage by just seeing new words once,
-even if we make extensive use of [[6cfc2b98]]. However, by sticking to the same
+even if we make extensive use of [[Anki]]. However, by sticking to the same
 author or genre, there is a greater chance of coming across the same words being
 used in similar contexts so we can build a stronger intuition for them[6].
 
