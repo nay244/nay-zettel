@@ -8,11 +8,9 @@ tags:
 
 # Migaku
 
-[Migaku](https://www.patreon.com/Migaku) is the new project from Yoga, the
-original developer behind some of the tools for the old [[4f5f4e00]] study
-method.
+[Migaku](https://www.patreon.com/Migaku) is the new project from Yoga.
 
-Some of their toolings are still really solid and useful, the [[6cfc2b98]] card
+Some of their toolings are still really solid and useful, the [[Anki]] card
 exporter and mining system are probably one of my favorite to use.
 
 I don't know about their pathreon itself, but it's definitely worth checking out
