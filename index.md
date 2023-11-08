@@ -11,7 +11,7 @@ Welcome to my personal website.
 This site is powered by Neuron and hosted on GH pages.
 
 ## Why?
-I just like to write about stuff. It's a bit of a mix between my own personal blog and just a place where I dump all kinds of notes and thoughts so I can retrieve them later.
+I plan on using this place to just write about stuff and document certain aspects of my life. It's a bit of a mix between my own personal blog and just a place where I dump all kinds of notes and thoughts so I can retrieve them later.
 
 The idea is to gather all kind of stuff and map it in a Zettelkasten that can be freely browsed / consulted at any time, by anyone.
 
