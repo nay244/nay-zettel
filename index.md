@@ -36,7 +36,7 @@ In reality, it's more like a series of personal posts and diary of sorts that do
   * [[[WGU]]]
 
 ## NOTE
-This site is powered by Neuron and hosted on GH pages.
+This site is powered by Neuron and hosted on GH pages. Testing live update on website.
 
 ## Timeline
 For a chronological list of zettels, see [[[Timeline]]]
