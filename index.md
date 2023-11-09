@@ -21,7 +21,7 @@ In my journey for a richer learning experience and a more meaningful way to trac
 
 **Productivity Tracking:** This system is my reflective mirror. It shows me where I've been and guides where I'm going. By interlinking tasks with my broader goals, I ensure that my daily actions align with my true priorities. Watching my progress unfold within this network of notes keeps me motivated and on track.
 
-**Personal Life Diary:** My Zettelkasten is also the canvas of my life. It captures the essence of my personal stories, the lessons I learn, and the joy I find in everyday moments. It's a tool for self-discovery, helping me to see patterns in my life and understand my journey better. And one day, it will be a legacy—a glimpse into my world for those I cherish.
+**Personal Life Diary:** My Zettelkasten is also the canvas of my life. It captures the essence of my personal stories, the lessons I learn, and the joy I find in everyday moments. It's a tool for self-discovery, helping me to see patterns in my life and understand my journey better. And one day, it will be a legacy—a glimpse into my world.
 
 ## How to browse this site
 In the true spirit of the Zettelkasten ideology, this webpage is to be a collection of notes.
