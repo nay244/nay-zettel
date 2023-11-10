@@ -18,9 +18,10 @@ In no particular order, my hobbies are:
 
  * Language learning (currently [[Japanese]])
  * Videogames (FPS, MMOs, RPGs, etc)
+   * Mostly playing Valorant or LoL
  * Data Analysis
  * Music (JPop, Pop, Rap, KPop, LoFi)
- * Shitposting online
+   * [Night Dancer](https://www.youtube.com/watch?v=imGFLgSC3Dk&list=PLO0dkPgBTwSdJv2hN7Vfor2wf3JBGbVsz&index=46&ab_channel=ShaniaYan-Topic) Currently my favorite song.
 
 ## Social media
 
@@ -30,4 +31,4 @@ In no particular order, my hobbies are:
 
 ## Email
 
-Just send me a hello at naaay.naing-sys@gmail.com
+Just send me a hello at naaay.naing@gmail.com
