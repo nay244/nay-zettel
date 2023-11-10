@@ -21,7 +21,7 @@ In no particular order, my hobbies are:
    * Mostly playing Valorant or LoL
  * Data Analysis
  * Music (JPop, Pop, Rap, KPop, LoFi)
-   * [Night Dancer](https://www.youtube.com/watch?v=imGFLgSC3Dk&list=PLO0dkPgBTwSdJv2hN7Vfor2wf3JBGbVsz&index=46&ab_channel=ShaniaYan-Topic) Currently my favorite song.
+   * [Night Dancer (Shania Yan cover)](https://www.youtube.com/watch?v=imGFLgSC3Dk&list=PLO0dkPgBTwSdJv2hN7Vfor2wf3JBGbVsz&index=46&ab_channel=ShaniaYan-Topic) Currently my favorite song.
 
 ## Social media
 
