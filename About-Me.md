@@ -8,7 +8,7 @@ tags:
 ## Who am I?
 
 Data Analyst, with an interest in  Machine Learning and Artificial Intelligence. 
-My academic background in Masters of Data Analytics and Bachelors of Information Technology (Cyber Security). 
+Academic background in Masters: Data Analytics and Bachelors: Information Technology (Cyber Security). 
 Southeastern US based.
 
 
