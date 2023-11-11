@@ -8,7 +8,7 @@ tags:
 
 # Data Analytics
 
-This section will contain a collection of things regarding data analysis. It will serve as a top-level index page
+This section will contain a collection of things regarding data analysis. It will serve as a top-level index page.
 
 ## Resources
 * [[[SQL]]]
