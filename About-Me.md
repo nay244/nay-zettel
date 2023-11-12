@@ -27,7 +27,6 @@ In no particular order, my hobbies are:
 ## Social media
 
  * Github: [Nay244] (https://github.com/nay244/)
- * Twitter: [@NaaayNG] (https://twitter.com/NaaayNG)
  * Discord: 'naaay'
 
 ## Email
