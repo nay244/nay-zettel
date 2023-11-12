@@ -16,33 +16,24 @@ This entire section is based on [this page](https://www.python.org/ftp/python/do
 python [-diuv] [-c command | script | - ] [args]
      -d   Turn on parser  debugging  output  (for  wizards  only,
           depending on compilation options).
-
      -i   When a script is passed as first  argument  or  the  -c
           option  is used, enter interactive mode after executing
           the script or  the  command.   It  does  not  read  the
           $PYTHONSTARTUP  file.   This  can  be useful to inspect
           global variables or a stack trace when a script  raises
           an exception.
-
      -s   Suppress auto-printing of expressions in interactive mode.
-
      -u   Force stdout and stderr to be totally unbuffered.
-
      -v   Print a message each  time  a  module  is  initialized,
           showing  the  place  (filename or built-in module) from
           which it is loaded.
-
      -c command
           Specify the command  to  execute  (see  next  section).
           This  terminates the option list (following options are
           passed as arguments to the command).
-
      -  anything afterward is passed as options to python script or
         command, not interpreted as an option to interpreter itself.
-
-     script is the name of a python file to execute
-
-     args are passed to script or command (in "sys.argv")
+     
 ## Basic Types and Their Operations
   **Comparisions (defined between _any_ types)**
           <	strictly less than	
@@ -56,6 +47,7 @@ python [-diuv] [-c command | script | - ] [args]
   **Numeric types**
   Floats, integers and long integers.
   **Operators on all numeric types**
+  
           abs(x)	absolute value of x	
           int(x)	x converted to integer	
           long(x)	x converted to long integer	
@@ -71,6 +63,7 @@ python [-diuv] [-c command | script | - ] [args]
           pow(x, y)	x to the power y	
   
   **Operators on all sequence types (lists, tuples, strings)**
+  
   	len(s)		length of s	
   	min(s)		smallest item of s	
   	max(s)		largest item of s	
@@ -80,34 +73,17 @@ python [-diuv] [-c command | script | - ] [args]
   	s * n, n * s	n copies of s concatenated	
   	s[i]		i'th item of s, origin 0
   	s[i:j]		slice of s from i to j	
+   
 ## Function Definition
 def <func_id> ([<param_list>]): <suite>
 		-- creates a function object and assigns it name 
 		   <func_id>.
 
-<param_list> ==> [<id> [, <id>]*] [<id> =
-							  <v> [,
-							  <id> =
-							  <v>]*]
-							  [*<id>] 
-							  [**<id>]
-E.g.
-	def test (p1, p2 = 1+1, *rest, **keywords):
-		-- Parameters with "=" have default value (<v> is
-		   evaluated when function defined).
-		   If list has "*<id>" then <id> is assigned
-		   a tuple of all remaining args passed to function.
-		   (allows vararg functions).
-		   If list has "**<id>" then <id> is assigned
-		   a dictionary of all argumenst passed as keywords.
-
 ## Class Definition
-class <class_id> [(<super_class1> [,<super_class2>]*)]: <suite>
-	-- Creates a class object and assigns it name <class_id>
-	   <suite> may contain local "defs" of class methods and
-	   assignments to class attributes.
+class <class_id> [(<super_class1> [,<super_class2>]*)]: 
 
 ## Built-In Function
+
 abs(x)		Return the absolute value of a number
 
 apply(f, args)
