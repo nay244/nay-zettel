@@ -22,7 +22,7 @@ Meeting these friends in person for the first time, in a country most of us had 
 
   * Total Spent: ~ $2,750 USD
   * Konbinis Visited: 31
-  * Yen Spent(Konbini): 12,122.00
+  * Yen Spent(Konbini): 12,122
   * Vending Machines Used: 8
   * Yen Spent(VM): 1,212
   * Biggest Expense (Flight): 1,250 
