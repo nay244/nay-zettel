@@ -1,5 +1,5 @@
 ---
-date: 2023-11-09T19:24
+date: 2023-11-09T23:52
 tags:
   - personal
   - travel
@@ -15,24 +15,23 @@ Meeting these friends in person for the first time, in a country most of us had 
 ## Travel Log
 ---
 
-![Japan Map_2023](./static/japan_map_2023.jpg)
+![Japan Map_2023](./static/japans_map_2023.jpg)
 
 ---
 ## Expenses 
 
-  * Total spent: 10k CHF
-  * Konbinis visited: 91
-  * Yen spent: 36'427
-  * Vending machines visited: 51
-  * Yen spent: 7'671
-  * Highest expense: Accommodation, 3'420 CHF
-  * Transportation costs: 2'600 CHF
-  * Avg. spent per day: 132.40 CHF
-  * Recorded expenses: 488
+  * Total Spent: ~ $2,750 USD
+  * Konbinis Visited: 31
+  * Yen Spent(Konbini): 12,122.00
+  * Vending Machines Used: 8
+  * Yen Spent(VM): 1,212
+  * Biggest Expense (Flight): 1,250 
+  * Transportation: ~ $290.80 USD
+  * Avg. Spent per Day: ~ $68 USD
 
 ---
 
-![Japan Expenses_2023](./static/japan_expenses_2023.jpg)
+![Japan Expenses_2023](./static/japan_expenses_2023.png)
 
 ---
 
