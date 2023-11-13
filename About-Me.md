@@ -22,7 +22,7 @@ In no particular order, my hobbies are:
  * Videogames (FPS, MMOs, RPGs, etc)
    * Mostly playing Valorant or LoL
  * Chess
-   * Blitz(1924) | Bullet(1895) | Rapid(1786)
+   * Blitz(1924) | Bullet(1895) | Rapid(1805)
  * Music (JPop, Pop, Rap, KPop, LoFi)
    * [Night Dancer (Shania Yan cover)](https://www.youtube.com/watch?v=imGFLgSC3Dk&list=PLO0dkPgBTwSdJv2hN7Vfor2wf3JBGbVsz&index=46&ab_channel=ShaniaYan-Topic) Currently my favorite song.
 
