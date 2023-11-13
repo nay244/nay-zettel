@@ -23,29 +23,26 @@ Due to unfortunate delays and circumstances get stuck at airport till next day.
 **Osaka (Day 2: 10/23)** </br>
 Early morning departure with shinkansen from Haneda Airport to Osaka station </br>
 Settle into Osaka Airbnb late afternoon. </br>
-Evening stroll through Dotonbori.
+Explore the nearby Shinsaibashi Shopping Street
 
 **Nara (Day 3: 10/24)**</br>
 Nara Park</br>
-Dotonbori
+Stroll through Dotonbori
 
-**Kyoto (Day 4: 10/25)**
+**Osaka (Day 4: 10/25)**
+Explore the nearby Tempozan Ferris Wheel and take in the views of Osaka Bay.</br>
+Visit the Osaka Aquarium
+
+**Kyoto (Day 5: 10/26)**</br>
 Fushimi Inari Taisha shrines</br>
 Higashiyama district</br>
 Kiyomizudera temple
-
-**Kyoto (Day 5: 10/26)**</br>
-Hozugawa river cruise</br>
-Arashiyama Bamboo Forest, monkey park</br>
-Eat Wagyu beef (Kobe)
 
 **Kyoto (Day 6: 10/27)**</br>
 Arashiyama Bamboo Forest</br>
 Arashiyama Monkey Park
 
-**Osaka (Day 7: 10/28)**</br>
-Osaka Castle</br>
-Terrell's bday</br>
+**Tokyo (Day 7: 10/28)**</br>
 Go to Tokyo Airbnb</br>
 Minato Mirai 21(Yokohama)
 
@@ -57,21 +54,20 @@ Walk through Nagamachi
 
 
 **Tokyo (Day 9: 10/30)**</br>
-Colin’s aunt’s cooking class</br>
 Thrift stores in Shimokitazawa (New York Joe, Flamingo, Mode-off, treasure factory, 2nd street)</br>
-Eat Tonkatsu/Katsudon (maisen), Ramen (near busy train stations)
+Eat Tonkatsu/Katsudon (maisen),
 
 **Nikko (Day 10: 10/31)**</br>
 Shinkyo bridge to Toshogu shrine</br>
 Kanmangafuchi Abyss walk</br>
-kegon falls</br>
-Akechidaira plateau/ ropeway 
+Kegon falls</br>
+Akechidaira plateau 
 
 **Tokyo (Day 11: 11/01)**</br>
 Nakano broadway</br>
-Akihabara (weeb stuff)</br>
-Arcade (sega mech pilot)</br>
-Shinjuku (walk for vibes)
+Akihabara</br>
+Arcade</br>
+Shinjuku
 
 **Tokyo (Day 12: 11/02)**</br>
 Harajuku</br>
