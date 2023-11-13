@@ -16,81 +16,79 @@ However, thats not to say that Japan as a country is a great place to live. Whil
 
 ## Travel Log
 
-**Tokyo (Day 1: 10/22)**
-Arrive at Haneda Airport
+**Tokyo (Day 1: 10/22)** </br>
+Arrive at Haneda Airport </br>
 Due to unfortunate delays and circumstances get stuck at airport till next day.
 
-**Osaka (Day 2: 10/23)**
-Early morning departure with shinkansen from Haneda Airport to Osaka station
-Settle into Osaka Airbnb late afternoon.
+**Osaka (Day 2: 10/23)** </br>
+Early morning departure with shinkansen from Haneda Airport to Osaka station </br>
+Settle into Osaka Airbnb late afternoon. </br>
 Evening stroll through Dotonbori.
 
-**Nara (Day 3: 10/24)**
-Nara Park
+**Nara (Day 3: 10/24)**</br>
+Nara Park</br>
 Dotonbori
 
 **Kyoto (Day 4: 10/25)**
-Fushimi Inari Taisha shrines
-Higashiyama district
+Fushimi Inari Taisha shrines</br>
+Higashiyama district</br>
 Kiyomizudera temple
 
-**Kyoto (Day 5: 10/26)**
-Hozugawa river cruise
-Arashiyama Bamboo Forest, monkey park
+**Kyoto (Day 5: 10/26)**</br>
+Hozugawa river cruise</br>
+Arashiyama Bamboo Forest, monkey park</br>
 Eat Wagyu beef (Kobe)
 
-**Kyoto (Day 6: 10/27)**
-Arashiyama Bamboo Forest
+**Kyoto (Day 6: 10/27)**</br>
+Arashiyama Bamboo Forest</br>
 Arashiyama Monkey Park
 
-**Osaka (Day 7: 10/28)**
-Osaka Castle
-Terrell's bday
-Go to Tokyo Airbnb
+**Osaka (Day 7: 10/28)**</br>
+Osaka Castle</br>
+Terrell's bday</br>
+Go to Tokyo Airbnb</br>
 Minato Mirai 21(Yokohama)
 
-**Kanazawa (Day 8: 10/29)**
-Kenrokuen
-Omicho Market 
-Higashi chaya district 
+**Kanazawa (Day 8: 10/29)**</br>
+Kenrokuen</br>
+Omicho Market </br>
+Higashi chaya district </br>
 Walk through Nagamachi
-*800 yen w/ JR pass
 
-**Tokyo (Day 9: 10/30)**
-Colin’s aunt’s cooking class
-Thrift stores in Shimokitazawa (New York Joe, Flamingo, Mode-off, treasure factory, 2nd street)
+
+**Tokyo (Day 9: 10/30)**</br>
+Colin’s aunt’s cooking class</br>
+Thrift stores in Shimokitazawa (New York Joe, Flamingo, Mode-off, treasure factory, 2nd street)</br>
 Eat Tonkatsu/Katsudon (maisen), Ramen (near busy train stations)
 
-**Nikko (Day 10: 10/31)**
-Shinkyo bridge to Toshogu shrine [2.5 hr from Tokyo, train + bus] 
-Kanmangafuchi Abyss walk
-kegon falls [30 min from shrine, bus] 
+**Nikko (Day 10: 10/31)**</br>
+Shinkyo bridge to Toshogu shrine</br>
+Kanmangafuchi Abyss walk</br>
+kegon falls</br>
 Akechidaira plateau/ ropeway 
 
-**Tokyo (Day 11: 11/01)**
-Nakano broadway
-Akihabara (weeb stuff)
-Arcade (sega mech pilot)
+**Tokyo (Day 11: 11/01)**</br>
+Nakano broadway</br>
+Akihabara (weeb stuff)</br>
+Arcade (sega mech pilot)</br>
 Shinjuku (walk for vibes)
 
-**Tokyo (Day 12: 11/02)**
-Harajuku
+**Tokyo (Day 12: 11/02)**</br>
+Harajuku</br>
 Ikebukuro east side (sunshine city)
-Halloween
 
-**Hakone (Day 13: 11/03)**
-Go to Hakone to stay @ Fukuzumiro ryokan
+**Hakone (Day 13: 11/03)**</br>
+Go to Hakone to stay @ Fukuzumiro ryokan</br>
 Hakone Tenzan or Yuryo onsen
 
-**Tokyo (Day 14: 11/04)**
-Fuji five lakes-fujigoko
-See Mt. Fuji at northern shore of lake Kawaguchiko
-Eat Hoto noodles (local dish)
-Tsukiji fish market
+**Tokyo (Day 14: 11/04)**</br>
+Fuji five lakes-fujigoko</br>
+See Mt. Fuji at northern shore of lake Kawaguchiko</br>
+Tsukiji fish market</br>
 teamLabs Planet museum (@11:30)
 
-**Tokyo (Day 15: 11/05)**
-Early morning departure to Haneda airport from Tokyo Airbnb.
+**Tokyo (Day 15: 11/05)**</br>
+Early morning departure to Haneda airport from Tokyo Airbnb.</br>
 Last minute gift shopping at Don Quijote in Roppongi.
 
 
