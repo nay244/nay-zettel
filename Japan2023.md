@@ -34,54 +34,52 @@ Explore the nearby Tempozan Ferris Wheel and take in the views of Osaka Bay.</br
 Visit the Osaka Aquarium
 
 **Kyoto (Day 5: 10/26)**</br>
-Fushimi Inari Taisha shrines</br>
+Shinkansen to Kyoto for Fushimi Inari Taisha shrines</br>
 Higashiyama district</br>
 Kiyomizudera temple
 
 **Kyoto (Day 6: 10/27)**</br>
-Arashiyama Bamboo Forest</br>
+Shinkansen to Kyoto for Arashiyama Bamboo Forest</br>
 Arashiyama Monkey Park
 
 **Tokyo (Day 7: 10/28)**</br>
-Go to Tokyo Airbnb</br>
-Minato Mirai 21(Yokohama)
+Early morning Shinkansen ride from Osaka station to Shinagawa station(Tokyo) </br>
+Stroll through Kabukicho
 
 **Kanazawa (Day 8: 10/29)**</br>
-Kenrokuen</br>
-Omicho Market </br>
-Higashi chaya district </br>
-Walk through Nagamachi
+Head to Shibuya Crossing</br>
+Visit Hachiko statue</br>
+Spend nighttime bar hopping in Shibuya
 
 
 **Tokyo (Day 9: 10/30)**</br>
-Thrift stores in Shimokitazawa (New York Joe, Flamingo, Mode-off, treasure factory, 2nd street)</br>
-Eat Tonkatsu/Katsudon (maisen),
+Start day with a visit to Asakusa</br>
+Explore Nakamise Shopping Street</br>
+Halloween Costume shopping
 
 **Nikko (Day 10: 10/31)**</br>
-Shinkyo bridge to Toshogu shrine</br>
-Kanmangafuchi Abyss walk</br>
-Kegon falls</br>
-Akechidaira plateau 
+Walk around Shibuya early afternoon</br>
+Halloween in Shinjuku</br>
+Clubbing in Shibuya
 
 **Tokyo (Day 11: 11/01)**</br>
 Nakano broadway</br>
 Akihabara</br>
-Arcade</br>
+Visit the arcades and play some crane games</br>
 Shinjuku
 
 **Tokyo (Day 12: 11/02)**</br>
-Harajuku</br>
-Ikebukuro east side (sunshine city)
+Explore Ikebukuro Sunshine City for cosplay event </br>
+Visit Harajuku and Takeshita street
 
 **Hakone (Day 13: 11/03)**</br>
-Go to Hakone to stay @ Fukuzumiro ryokan</br>
-Hakone Tenzan or Yuryo onsen
+Take a day trip to Nikko</br>
+Visit Toshogu Shrine, Kegon Falls, and Lake Chuzenji
 
 **Tokyo (Day 14: 11/04)**</br>
-Fuji five lakes-fujigoko</br>
-See Mt. Fuji at northern shore of lake Kawaguchiko</br>
-Tsukiji fish market</br>
-teamLabs Planet museum (@11:30)
+Visit Tsukiji fish market</br>
+Explore teamLabs Planet museum</br>
+Souveneir gift shopping
 
 **Tokyo (Day 15: 11/05)**</br>
 Early morning departure to Haneda airport from Tokyo Airbnb.</br>
