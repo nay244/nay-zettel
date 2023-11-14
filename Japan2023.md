@@ -29,7 +29,7 @@ Explore the nearby Shinsaibashi Shopping Street
 Nara Park</br>
 Stroll through Dotonbori
 
-**Osaka (Day 4: 10/25)**
+**Osaka (Day 4: 10/25)**</br>
 Explore the nearby Tempozan Ferris Wheel and take in the views of Osaka Bay</br>
 Visit the Osaka Aquarium
 
