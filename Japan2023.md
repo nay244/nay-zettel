@@ -22,7 +22,7 @@ Due to unfortunate delays and circumstances get stuck at airport till next day.
 
 **Osaka (Day 2: 10/23)** </br>
 Early morning departure with shinkansen from Haneda Airport to Osaka station </br>
-Settle into Osaka Airbnb late afternoon. </br>
+Settle into Osaka Airbnb late afternoon </br>
 Explore the nearby Shinsaibashi Shopping Street
 
 **Nara (Day 3: 10/24)**</br>
@@ -43,13 +43,13 @@ Shinkansen to Kyoto for Arashiyama Bamboo Forest</br>
 Arashiyama Monkey Park
 
 **Tokyo (Day 7: 10/28)**</br>
-Early morning Shinkansen ride from Osaka station to Shinagawa station(Tokyo) </br>
+Early morning Shinkansen ride from Osaka station to Shinagawa station (Tokyo) </br>
 Stroll through Kabukicho
 
 **Kanazawa (Day 8: 10/29)**</br>
 Head to Shibuya Crossing</br>
 Visit Hachiko statue</br>
-Spend nighttime bar hopping in Shibuya
+Spend night time bar hopping in Shibuya
 
 
 **Tokyo (Day 9: 10/30)**</br>
@@ -83,7 +83,7 @@ Souveneir gift shopping
 
 **Tokyo (Day 15: 11/05)**</br>
 Early morning departure to Haneda airport from Tokyo Airbnb</br>
-Last minute gift shopping at Don Quijote in Roppongi.
+Last minute gift shopping at Don Quijote in Roppongi
 
 
 ---
