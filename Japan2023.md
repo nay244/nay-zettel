@@ -30,7 +30,7 @@ Nara Park</br>
 Stroll through Dotonbori
 
 **Osaka (Day 4: 10/25)**
-Explore the nearby Tempozan Ferris Wheel and take in the views of Osaka Bay.</br>
+Explore the nearby Tempozan Ferris Wheel and take in the views of Osaka Bay</br>
 Visit the Osaka Aquarium
 
 **Kyoto (Day 5: 10/26)**</br>
@@ -82,7 +82,7 @@ Explore teamLabs Planet museum</br>
 Souveneir gift shopping
 
 **Tokyo (Day 15: 11/05)**</br>
-Early morning departure to Haneda airport from Tokyo Airbnb.</br>
+Early morning departure to Haneda airport from Tokyo Airbnb</br>
 Last minute gift shopping at Don Quijote in Roppongi.
 
 
