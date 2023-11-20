@@ -16,6 +16,6 @@ This section will contain a collection of things regarding data analysis. It wil
 * [[[Excel]]]
   
 ## Projects
-
+* [[[MelodyCraft]]]
 
 [[z:zettels?tag=dataanalytics/**&dataanalytics]]
