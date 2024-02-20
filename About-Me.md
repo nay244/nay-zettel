@@ -17,14 +17,14 @@ Southeastern US based.
 In no particular order, my hobbies are:
 
  * Language learning (currently [[Japanese]])
- * Anime (SoL, Romance, Fantasy, Drama)
+ * TV/Anime (SoL, Romance, Fantasy, Drama)
    * [AniList](https://anilist.co/user/Nay244/animelist)
  * Videogames (FPS, MMOs, RPGs, etc)
-   * Mostly playing Valorant or LoL
+   * Mostly playing LoL
  * Chess
-   * Blitz(1924) | Bullet(1895) | Rapid(1805)
+   * Blitz(1800-1900) | Bullet(1800-1900) | Rapid(1700-1800)
  * Music (JPop, Pop, Rap, KPop, LoFi)
-   * [Night Dancer (Shania Yan cover)](https://www.youtube.com/watch?v=imGFLgSC3Dk&list=PLO0dkPgBTwSdJv2hN7Vfor2wf3JBGbVsz&index=46&ab_channel=ShaniaYan-Topic) Currently my favorite song.
+   * [Night Dancer (Imase)](https://www.youtube.com/watch?v=imGFLgSC3Dk&list=PLO0dkPgBTwSdJv2hN7Vfor2wf3JBGbVsz&index=46&ab_channel=ShaniaYan-Topic) Currently my favorite song.
 
 ## Social media
 
