@@ -20,7 +20,7 @@ In no particular order, my hobbies are:
  * TV/Anime (SoL, Romance, Fantasy, Drama)
    * [AniList](https://anilist.co/user/Nay244/animelist)
  * Videogames (FPS, MMOs, RPGs, etc)
-   * Mostly playing LoL
+   * Mostly playing LoL or OSRS during free time
  * Chess
    * Blitz(1800-1900) | Bullet(1800-1900) | Rapid(1700-1800)
  * Music (JPop, Pop, Rap, KPop, LoFi)
