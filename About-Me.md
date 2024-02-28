@@ -7,7 +7,7 @@ tags:
 
 ## Who am I?
 
-Data Analyst, with an interest in  Machine Learning and Artificial Intelligence. 
+I am a Data Analyst who loves using ML techniques to reveal narratives in data and create predictive models for future insights.
 Academic background in Masters: Data Analytics and Bachelors: Information Technology (Cyber Security). 
 Southeastern US based.
 
