@@ -1,5 +1,5 @@
 ---
-date: 2023-11-11T11:12
+date: 2024-03-24T15:12
 tags:
   - Excel
   - timeline
@@ -21,5 +21,5 @@ I want to build a strong foundation in spreadsheet manipulation, master the art 
 
 ## Resources
   * [Exceljet](https://exceljet.net/) Exceljet provides concise Excel tips, tutorials, and shortcuts.
-  * [Excel Easy](https://www.excel-easy.com/) Tutorial on starting with Excel basics and advancing to complex formulas and functions.
-  * [[[Pluralsight]]]
+  * [Datacamp](https://www.datacamp.com/cheat-sheet/getting-started-with-excel-cheat-sheet) Excel cheatsheet provided by Datacamp.
+  * [[[Pluralsight_Excel]]]
