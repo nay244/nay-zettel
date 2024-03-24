@@ -8,18 +8,18 @@ tags:
 
 # Excel
 
-This blog marks the beginning of a new chapter in my professional life, one where I embrace the power of Python for data analysis, machine learning, and data science.
+This section of my blog will be where I store information embracing the capabilities of Excel for data analysis, financial modeling, and business intelligence.
 
-**Why Excel?** My aim is not just to learn a programming language but to unlock a new realm of possibilities in technology. Whether it's understanding how data shapes decisions or exploring the wonders of artificial intelligence, Python seems to be the key.
-I want to build a strong foundation in programming, understand the basics of data analysis, and eventually explore the vast areas of machine learning and data science. I am intrigued by the stories of Python transforming careers and opening doors to new opportunities, and I hope to be one of those stories.
+**Why Excel?** My goal is not just to learn a spreadsheet tool but to unlock a new realm of possibilities in data management and analysis. Whether it's understanding financial trends or optimizing business operations.
+I want to build a strong foundation in spreadsheet manipulation, master the art of data visualization, and eventually explore advanced features like macros and pivot tables. I am intrigued by the stories of Excel enhancing productivity and providing strategic insights, and I hope to be one of those stories.
 
-## Motivations for Learning Python
+## Motivations for Learning Excel
 
-**Data Science:** More Than Just Numbers: Data science is fascinating to me. It's about turning a sea of data into insights and decisions. With Python, tools like Pandas and Matplotlib can help dissect and visualize data in ways that make sense and tell a story. It’s about uncovering the hidden narratives in data, and that's something I really look forward to mastering.
+**Business Analysis:** Business analysis is fascinating because it's about turning raw data into strategic insights and informed decisions. With Excel, features like pivot tables and advanced charting can help dissect and visualize data in ways that inform and persuade. It’s about extracting actionable intelligence from numbers, and that's something I really look forward to mastering.
 
-**Machine Learning:** Machine learning is another topic I'm eager to explore. It's about teaching computers to learn and make predictions based on data. With Python's libraries like scikit-learn and TensorFlow, the possibilities seem endless. From recognizing patterns to predicting outcomes, the potential applications are vast and exciting.
+**Financial Modeling:** Financial modeling is another area I'm eager to delve into. It's about constructing representations of a company's financial performance. With Excel's functions and formulas, the ability to model complex financial scenarios becomes possible. From budget forecasting to investment analysis, the potential applications are vast and impactful.
 
 ## Resources
-  * [Dataquest](https://www.dataquest.io/course/introduction-to-python/) Dataquest teaches Python syntax in the context of learning data science.
-  * [Python Tutorial](https://docs.python.org/3/tutorial/) Tutorial on main Python site.
-  * [[[PythonCommands]]]
+  * [Exceljet](https://exceljet.net/) Exceljet provides concise Excel tips, tutorials, and shortcuts.
+  * [Excel Easy](https://www.excel-easy.com/) Tutorial on starting with Excel basics and advancing to complex formulas and functions.
+  * [[[Pluralsight]]]
