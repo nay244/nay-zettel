@@ -22,4 +22,6 @@ I want to build a strong foundation in spreadsheet manipulation, master the art 
 ## Resources
   * [Exceljet](https://exceljet.net/) Exceljet provides concise Excel tips, tutorials, and shortcuts.
   * [Datacamp](https://www.datacamp.com/cheat-sheet/getting-started-with-excel-cheat-sheet) Excel cheatsheet provided by Datacamp.
+  * [Excel Practice](https://excel-practice-online.com/) Website to practice and learn excel functions and tools on the browser window.
+  Every function and tool has an explanation followed by an online excel exercise which can be solved within the page itself, no need to download anything.
   * [[[Pluralsight_Excel]]]
