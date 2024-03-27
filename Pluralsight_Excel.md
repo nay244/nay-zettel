@@ -11,19 +11,27 @@ This document contains notes from the Pluralsight course on Excel 365, detailing
 
 ## Formatting
 Discusses the importance of cell formatting for readability and data interpretation. Key topics include number formatting, cell styles, and custom formats.
+
 ### Custom Number Formats
 #### Use Cases
 * Specific number formatting (Date, Time, Decimals, Accounting, Percentage, etc..)
 * Data from csv file need to be formatted for analysis in 3rd party application (Leading Zeros).
-![Custom_Number_Format](./static/numberformats.png)
+![Custom_Number_Format](./static/excel/numberformats.png)
 
 ### International Currency Formats
-### Display Data in Multiple International Formats
+#### Symbols for Different Currency
+Accounting Formats (Does not do conversion)
+![International Currency](./static/excel/internationalcurrency.png)
 
 ## Working with Data
 Covers the basics of data entry, manipulation, and sorting. Emphasizes on efficient data management techniques.
 
 ### Outline Data
+#### Group Data to Create Outlines
+Data > Outline > Group
+![Outline Pre](./static/excel/outline_pre.jpg)
+![Outline Post](./static/excel/outline_post.png)
+
 ### Insert Subtotals
 ### Insert References
 ### Reference Data in Another Workbook
