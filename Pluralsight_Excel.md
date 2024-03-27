@@ -28,11 +28,16 @@ Covers the basics of data entry, manipulation, and sorting. Emphasizes on effici
 
 ### Outline Data
 #### Group Data to Create Outlines
-Data > Outline > Group
+Data > Outline > Group/Ungroup
 ![Outline Pre](./static/excel/outline_pre.jpg)
 ![Outline Post](./static/excel/outline_post.png)
 
 ### Insert Subtotals
+#### Get Subtotal Amount for a Specific Group
+Data > Outline > Subtotal
+First sort list by criteria to subtotal by.
+![Subtotal](./static/excel/subtotal.png)
+
 ### Insert References
 ### Reference Data in Another Workbook
 ### Reference Data by Using Structured References
