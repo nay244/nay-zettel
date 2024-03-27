@@ -12,6 +12,7 @@ This document contains notes from the Pluralsight course on Excel 365, detailing
 ## Formatting
 Discusses the importance of cell formatting for readability and data interpretation. Key topics include number formatting, cell styles, and custom formats.
 ### Custom Number Formats
+
 ### International Currency Formats
 ### Display Data in Multiple International Formats
 
@@ -143,4 +144,5 @@ Introduces how to automate repetitive tasks and enhance user interaction using m
 ### Create a Maco Button
 ### Insert and Configure Form Controls
 
-**NOTE** These notes are a concise summary of the extensive functionalities of Excel 365 covered in the Pluralsight course, aimed at enhancing skills in data analysis and business intelligence.
+## Notes
+These notes are a concise summary of the extensive functionalities of Excel 365 covered in the Pluralsight course, aimed at enhancing skills in data analysis and business intelligence.
