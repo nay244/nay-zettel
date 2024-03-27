@@ -13,9 +13,10 @@ This document contains notes from the Pluralsight course on Excel 365, detailing
 Discusses the importance of cell formatting for readability and data interpretation. Key topics include number formatting, cell styles, and custom formats.
 ### Custom Number Formats
 ![Custom_Number_Format](./static/numberformats.png)
+</br>
 Use Cases
     * Specific number formatting (Date, Time, Decimals, Accounting, Percentage, etc..)
-    * Data from csv file need to be formatted for analysis in 3rd party application.
+    * Data from csv file need to be formatted for analysis in 3rd party application (Leading Zeros).
 
 ### International Currency Formats
 ### Display Data in Multiple International Formats
