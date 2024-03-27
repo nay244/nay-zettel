@@ -12,11 +12,10 @@ This document contains notes from the Pluralsight course on Excel 365, detailing
 ## Formatting
 Discusses the importance of cell formatting for readability and data interpretation. Key topics include number formatting, cell styles, and custom formats.
 ### Custom Number Formats
+#### Use Cases
+* Specific number formatting (Date, Time, Decimals, Accounting, Percentage, etc..)
+* Data from csv file need to be formatted for analysis in 3rd party application (Leading Zeros).
 ![Custom_Number_Format](./static/numberformats.png)
-</br>
-Use Cases
-    * Specific number formatting (Date, Time, Decimals, Accounting, Percentage, etc..)
-    * Data from csv file need to be formatted for analysis in 3rd party application (Leading Zeros).
 
 ### International Currency Formats
 ### Display Data in Multiple International Formats
@@ -34,6 +33,7 @@ Covers the basics of data entry, manipulation, and sorting. Emphasizes on effici
 ### Analyze Data
 ### Look Up Data by Using the XLOOKUP Function
 ### Look Up Data by Using the XMATCH Function
+
 
 ## Power Query
 Explains how to use Power Query for advanced data import and transformation. Highlights include merging and cleaning data sets.
