@@ -34,11 +34,16 @@ Data > Outline > Group/Ungroup
 
 ### Insert Subtotals
 #### Get Subtotal Amount for a Specific Group
-Data > Outline > Subtotal
+Data > Outline > Subtotal </br>
 First sort list by criteria to subtotal by.
 ![Subtotal](./static/excel/subtotal.png)
 
 ### Insert References
+#### References Rows and Columns
+* Relative reference example: =sum(C6:F6)
+* Absolute reference example: =sum(G7*$F$3)
+![References](./static/excel/references.png)
+
 ### Reference Data in Another Workbook
 ### Reference Data by Using Structured References
 ### Consolidate Data
