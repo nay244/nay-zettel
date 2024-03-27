@@ -41,17 +41,14 @@ First sort list by criteria to subtotal by.
 ### Insert References
 #### References Rows and Columns
 * Relative reference example: =sum(C6:F6)
-* Absolute reference example: =sum(G7*$F$3)
-</br>
+* Absolute reference example: =sum(G7*$F$3)</br>
 ![References](./static/excel/references.png)
 
 ### Reference Data by Using Structured References
 #### Reference Data by Use of Table Names
 * Count of fields in table Sales: =COUNT(Sales)
-* Max Change of values in table Sales: =MAX(Sales[Change])
-* </br>
+* Max Change of values in table Sales: =MAX(Sales[Change]) </br>
 ![Structured Reference](./static/excel/structured_reference.png)
-structured_reference
 ### Consolidate Data
 ### Configure Data Validation
 ### Analyze Data
