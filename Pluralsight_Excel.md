@@ -75,7 +75,10 @@ Formulas > Function Library > Lookup & Reference > XLOOKUP</br>
 ![XLOOKUP](./static/excel/xlookup.png)
 
 ### Look Up Data by Using the XMATCH Function
-
+#### New Version of MATCH function
+Formulas > Function Library > Lookup & Reference > XMATCH</br>
+* Perform a lookup and return a horizontal or vertical position</br>
+![XMATCH](./static/excel/xmatch.png)
 
 ## Power Query
 Explains how to use Power Query for advanced data import and transformation. Highlights include merging and cleaning data sets.
