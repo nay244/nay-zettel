@@ -57,11 +57,17 @@ Data > Data Tools > Consolidate </br>
 
 ### Configure Data Validation
 #### Limit User Inputs
-Data > Data Tools > Data Validation
+Data > Data Tools > Data Validation </br>
 ![Data Validation](./static/excel/data_validate.png)
 
 
 ### Analyze Data
+#### Extract Information from Data
+Home > Analysis > Analyze Data
+* Create PivotTables, PivotCharts, Suggestions, etc.. </br>
+![Analyze Data](./static/excel/data_analyze.png)
+
+
 ### Look Up Data by Using the XLOOKUP Function
 ### Look Up Data by Using the XMATCH Function
 
