@@ -84,6 +84,17 @@ Formulas > Function Library > Lookup & Reference > XMATCH</br>
 Explains how to use Power Query for advanced data import and transformation. Highlights include merging and cleaning data sets.
 
 ### Import, Transform, and Connect to Data
+#### Connect Data from Workbooks Using Power Query
+Start with brand new workbook to import data to.
+* Data > Get Data > From File
+* Select Excel data file in Navigator and click Transform Data to open Power Query editor.
+* Choose relevant columns
+* Create connection by choosing Close & Load to
+* Get Data from another workbook: Data > Get Data > From File </br>
+![Import Data 1](./static/excel/import_data_1.png)
+![Import Data 2](./static/excel/import_data_2.png)
+
+
 ### Combine and Display Data
 
 ## Text Functions
