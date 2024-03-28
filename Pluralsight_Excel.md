@@ -56,6 +56,11 @@ Data > Data Tools > Consolidate </br>
 ![Consolidate](./static/excel/consolidate.png)
 
 ### Configure Data Validation
+#### Limit User Inputs
+Data > Data Tools > Data Validation
+![Data Validation](./static/excel/data_validate.png)
+
+
 ### Analyze Data
 ### Look Up Data by Using the XLOOKUP Function
 ### Look Up Data by Using the XMATCH Function
