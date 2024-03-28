@@ -6,8 +6,8 @@ tags:
     -training
     -excel365
 ---
-# Pluralsight Excel 365 Training Notes
-This document contains notes from the Pluralsight course on Excel 365, detailing key features and functionalities that are essential for mastering Excel in a professional setting.
+# Pluralsight Excel 365 Training
+This section of the webpage will contains notes from the Pluralsight course on Excel 365, detailing key features and functionalities that are essential for mastering Excel in a professional setting.
 
 ## Formatting
 Discusses the importance of cell formatting for readability and data interpretation. Key topics include number formatting, cell styles, and custom formats.
@@ -69,6 +69,11 @@ Home > Analysis > Analyze Data
 
 
 ### Look Up Data by Using the XLOOKUP Function
+#### Successor to VLOOKUP, HLOOKUP, LOOKUP
+Formulas > Function Library > Lookup & Reference > XLOOKUP</br>
+* Find return value in same row </br>
+![XLOOKUP](./static/excel/xlookup.png)
+
 ### Look Up Data by Using the XMATCH Function
 
 
