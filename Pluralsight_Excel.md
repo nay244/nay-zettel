@@ -96,6 +96,12 @@ Start with brand new workbook to import data to.
 
 
 ### Combine and Display Data
+#### Use Power Query to Combine and Display Data
+Data > Get Data > Launch Power Query Editor
+* Merge queries together and gather data into a single usable workbook.
+* Home > Combine > Merge Queries
+* Data > Combine Queries > Merge
+![Import Data 2](./static/excel/merge_queries.png)
 
 ## Text Functions
 Overview of functions like LEFT, RIGHT, MID, CONCATENATE, and TEXT to manipulate and analyze text data.
